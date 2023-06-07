@@ -1,5 +1,4 @@
 import React from 'react'
-import './LineItem'
 import LineItem from './LineItem'
 
 const ItemList = ({items, handleCheck, handleDelete}) => {

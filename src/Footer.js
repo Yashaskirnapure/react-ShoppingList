@@ -7,7 +7,6 @@ const Footer = ({count}) => {
         <p>
           Copyright &copy; {today.getFullYear()}
         </p>
-        <p>{count}</p>
     </footer>
   )
 }
